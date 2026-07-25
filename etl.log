@@ -296,3 +296,502 @@
 2026-07-26 00:57:55,599 | INFO | main | run_etl | Line:60 | KolkataAPI data fetched succesfully
 2026-07-26 00:57:55,600 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
 2026-07-26 00:57:55,607 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:00:55,739 | INFO | db_connect | get_db_connection | Line:66 | Successfully connected to PostgreSQL!
+2026-07-26 01:00:55,741 | INFO | main | run_etl | Line:38 | Connection Established Succesfully
+2026-07-26 01:00:56,377 | INFO | main | run_etl | Line:60 | DelhiAPI data fetched succesfully
+2026-07-26 01:00:56,378 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:00:56,386 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:00:57,058 | INFO | main | run_etl | Line:60 | MumbaiAPI data fetched succesfully
+2026-07-26 01:00:57,058 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:00:57,061 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:00:57,688 | INFO | main | run_etl | Line:60 | HyderabadAPI data fetched succesfully
+2026-07-26 01:00:57,688 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:00:57,691 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:00:58,268 | INFO | main | run_etl | Line:60 | BengaluruAPI data fetched succesfully
+2026-07-26 01:00:58,268 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:00:58,270 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:00:58,850 | INFO | main | run_etl | Line:60 | ChennaiAPI data fetched succesfully
+2026-07-26 01:00:58,851 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:00:58,853 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:00:59,520 | INFO | main | run_etl | Line:60 | KolkataAPI data fetched succesfully
+2026-07-26 01:00:59,521 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:00:59,524 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:03:59,659 | INFO | db_connect | get_db_connection | Line:66 | Successfully connected to PostgreSQL!
+2026-07-26 01:03:59,661 | INFO | main | run_etl | Line:38 | Connection Established Succesfully
+2026-07-26 01:04:00,291 | INFO | main | run_etl | Line:60 | DelhiAPI data fetched succesfully
+2026-07-26 01:04:00,292 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:04:00,294 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:04:00,911 | INFO | main | run_etl | Line:60 | MumbaiAPI data fetched succesfully
+2026-07-26 01:04:00,911 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:04:00,916 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:04:01,591 | INFO | main | run_etl | Line:60 | HyderabadAPI data fetched succesfully
+2026-07-26 01:04:01,592 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:04:01,595 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:04:02,371 | INFO | main | run_etl | Line:60 | BengaluruAPI data fetched succesfully
+2026-07-26 01:04:02,372 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:04:02,375 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:04:03,290 | INFO | main | run_etl | Line:60 | ChennaiAPI data fetched succesfully
+2026-07-26 01:04:03,291 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:04:03,293 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:04:03,935 | INFO | main | run_etl | Line:60 | KolkataAPI data fetched succesfully
+2026-07-26 01:04:03,935 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:04:03,938 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:07:04,057 | INFO | db_connect | get_db_connection | Line:66 | Successfully connected to PostgreSQL!
+2026-07-26 01:07:04,058 | INFO | main | run_etl | Line:38 | Connection Established Succesfully
+2026-07-26 01:07:04,708 | INFO | main | run_etl | Line:60 | DelhiAPI data fetched succesfully
+2026-07-26 01:07:04,709 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:07:04,714 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:07:05,316 | INFO | main | run_etl | Line:60 | MumbaiAPI data fetched succesfully
+2026-07-26 01:07:05,316 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:07:05,321 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:07:05,896 | INFO | main | run_etl | Line:60 | HyderabadAPI data fetched succesfully
+2026-07-26 01:07:05,896 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:07:05,899 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:07:06,551 | INFO | main | run_etl | Line:60 | BengaluruAPI data fetched succesfully
+2026-07-26 01:07:06,551 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:07:06,556 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:07:07,212 | INFO | main | run_etl | Line:60 | ChennaiAPI data fetched succesfully
+2026-07-26 01:07:07,212 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:07:07,215 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:07:07,966 | INFO | main | run_etl | Line:60 | KolkataAPI data fetched succesfully
+2026-07-26 01:07:07,966 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:07:07,969 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:07,356 | INFO | db_connect | get_db_connection | Line:66 | Successfully connected to PostgreSQL!
+2026-07-26 01:09:07,367 | INFO | db_connect | get_from_db | Line:111 | Record searched successfully
+2026-07-26 01:09:27,382 | INFO | db_connect | get_db_connection | Line:66 | Successfully connected to PostgreSQL!
+2026-07-26 01:09:27,384 | INFO | main | run_etl | Line:38 | Connection Established Succesfully
+2026-07-26 01:09:27,996 | INFO | main | run_etl | Line:60 | DelhiAPI data fetched succesfully
+2026-07-26 01:09:27,997 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:28,000 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:28,637 | INFO | main | run_etl | Line:60 | MumbaiAPI data fetched succesfully
+2026-07-26 01:09:28,637 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:28,641 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:29,195 | INFO | main | run_etl | Line:60 | BengaluruAPI data fetched succesfully
+2026-07-26 01:09:29,196 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:29,199 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:29,777 | INFO | main | run_etl | Line:60 | HyderabadAPI data fetched succesfully
+2026-07-26 01:09:29,778 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:29,780 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:30,352 | INFO | main | run_etl | Line:60 | ChennaiAPI data fetched succesfully
+2026-07-26 01:09:30,352 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:30,356 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:30,997 | INFO | main | run_etl | Line:60 | KolkataAPI data fetched succesfully
+2026-07-26 01:09:30,997 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:31,001 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:31,657 | INFO | main | run_etl | Line:60 | PuneAPI data fetched succesfully
+2026-07-26 01:09:31,657 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:31,660 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:32,209 | INFO | main | run_etl | Line:60 | AhmedabadAPI data fetched succesfully
+2026-07-26 01:09:32,209 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:32,212 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:32,764 | INFO | main | run_etl | Line:60 | JaipurAPI data fetched succesfully
+2026-07-26 01:09:32,765 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:32,767 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:33,339 | INFO | main | run_etl | Line:60 | SuratAPI data fetched succesfully
+2026-07-26 01:09:33,339 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:33,341 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:33,957 | INFO | main | run_etl | Line:60 | LucknowAPI data fetched succesfully
+2026-07-26 01:09:33,957 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:33,962 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:34,664 | INFO | main | run_etl | Line:60 | KanpurAPI data fetched succesfully
+2026-07-26 01:09:34,665 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:34,672 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:35,275 | INFO | main | run_etl | Line:60 | NagpurAPI data fetched succesfully
+2026-07-26 01:09:35,275 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:35,278 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:35,905 | INFO | main | run_etl | Line:60 | IndoreAPI data fetched succesfully
+2026-07-26 01:09:35,905 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:35,909 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:36,515 | INFO | main | run_etl | Line:60 | BhopalAPI data fetched succesfully
+2026-07-26 01:09:36,515 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:36,519 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:37,136 | INFO | main | run_etl | Line:60 | PatnaAPI data fetched succesfully
+2026-07-26 01:09:37,137 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:37,139 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:37,810 | INFO | main | run_etl | Line:60 | VisakhapatnamAPI data fetched succesfully
+2026-07-26 01:09:37,811 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:37,813 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:38,430 | INFO | main | run_etl | Line:60 | VijayawadaAPI data fetched succesfully
+2026-07-26 01:09:38,430 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:38,433 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:39,033 | INFO | main | run_etl | Line:60 | CoimbatoreAPI data fetched succesfully
+2026-07-26 01:09:39,033 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:39,036 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:39,620 | INFO | main | run_etl | Line:60 | MaduraiAPI data fetched succesfully
+2026-07-26 01:09:39,621 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:39,623 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:40,301 | INFO | main | run_etl | Line:60 | KochiAPI data fetched succesfully
+2026-07-26 01:09:40,302 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:40,305 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:40,896 | INFO | main | run_etl | Line:60 | ThiruvananthapuramAPI data fetched succesfully
+2026-07-26 01:09:40,897 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:40,901 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:41,503 | INFO | main | run_etl | Line:60 | MysuruAPI data fetched succesfully
+2026-07-26 01:09:41,504 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:41,507 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:42,104 | INFO | main | run_etl | Line:60 | MangaluruAPI data fetched succesfully
+2026-07-26 01:09:42,104 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:42,108 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:42,812 | INFO | main | run_etl | Line:60 | HubballiAPI data fetched succesfully
+2026-07-26 01:09:42,813 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:42,818 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:43,418 | INFO | main | run_etl | Line:60 | NashikAPI data fetched succesfully
+2026-07-26 01:09:43,419 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:43,421 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:44,085 | INFO | main | run_etl | Line:60 | AurangabadAPI data fetched succesfully
+2026-07-26 01:09:44,086 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:44,090 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:44,686 | INFO | main | run_etl | Line:60 | VadodaraAPI data fetched succesfully
+2026-07-26 01:09:44,686 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:44,689 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:45,341 | INFO | main | run_etl | Line:60 | RajkotAPI data fetched succesfully
+2026-07-26 01:09:45,341 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:45,347 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:45,996 | INFO | main | run_etl | Line:60 | JodhpurAPI data fetched succesfully
+2026-07-26 01:09:45,996 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:45,999 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:46,618 | INFO | main | run_etl | Line:60 | UdaipurAPI data fetched succesfully
+2026-07-26 01:09:46,618 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:46,621 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:47,282 | INFO | main | run_etl | Line:60 | KotaAPI data fetched succesfully
+2026-07-26 01:09:47,283 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:47,286 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:47,901 | INFO | main | run_etl | Line:60 | ChandigarhAPI data fetched succesfully
+2026-07-26 01:09:47,901 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:47,904 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:48,498 | INFO | main | run_etl | Line:60 | LudhianaAPI data fetched succesfully
+2026-07-26 01:09:48,498 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:48,504 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:49,132 | INFO | main | run_etl | Line:60 | AmritsarAPI data fetched succesfully
+2026-07-26 01:09:49,132 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:49,135 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:49,767 | INFO | main | run_etl | Line:60 | JalandharAPI data fetched succesfully
+2026-07-26 01:09:49,767 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:49,770 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:50,435 | INFO | main | run_etl | Line:60 | DehradunAPI data fetched succesfully
+2026-07-26 01:09:50,436 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:50,439 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:51,074 | INFO | main | run_etl | Line:60 | HaridwarAPI data fetched succesfully
+2026-07-26 01:09:51,074 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:51,077 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:51,731 | INFO | main | run_etl | Line:60 | ShimlaAPI data fetched succesfully
+2026-07-26 01:09:51,732 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:51,734 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:52,382 | INFO | main | run_etl | Line:60 | SrinagarAPI data fetched succesfully
+2026-07-26 01:09:52,383 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:52,386 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:53,084 | INFO | main | run_etl | Line:60 | JammuAPI data fetched succesfully
+2026-07-26 01:09:53,084 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:53,091 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:53,744 | INFO | main | run_etl | Line:60 | LehAPI data fetched succesfully
+2026-07-26 01:09:53,744 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:53,746 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:54,324 | INFO | main | run_etl | Line:60 | RanchiAPI data fetched succesfully
+2026-07-26 01:09:54,325 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:54,328 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:54,914 | INFO | main | run_etl | Line:60 | JamshedpurAPI data fetched succesfully
+2026-07-26 01:09:54,914 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:54,917 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:55,516 | INFO | main | run_etl | Line:60 | BhubaneswarAPI data fetched succesfully
+2026-07-26 01:09:55,517 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:55,521 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:56,085 | INFO | main | run_etl | Line:60 | CuttackAPI data fetched succesfully
+2026-07-26 01:09:56,085 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:56,088 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:56,668 | INFO | main | run_etl | Line:60 | RaipurAPI data fetched succesfully
+2026-07-26 01:09:56,669 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:56,671 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:57,230 | INFO | main | run_etl | Line:60 | BilaspurAPI data fetched succesfully
+2026-07-26 01:09:57,231 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:57,234 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:57,838 | INFO | main | run_etl | Line:60 | GuwahatiAPI data fetched succesfully
+2026-07-26 01:09:57,839 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:57,843 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:58,440 | INFO | main | run_etl | Line:60 | ShillongAPI data fetched succesfully
+2026-07-26 01:09:58,440 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:58,444 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:59,028 | INFO | main | run_etl | Line:60 | AgartalaAPI data fetched succesfully
+2026-07-26 01:09:59,029 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:59,031 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:09:59,695 | INFO | main | run_etl | Line:60 | AizawlAPI data fetched succesfully
+2026-07-26 01:09:59,696 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:09:59,698 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:00,298 | INFO | main | run_etl | Line:60 | ImphalAPI data fetched succesfully
+2026-07-26 01:10:00,298 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:00,301 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:00,870 | INFO | main | run_etl | Line:60 | KohimaAPI data fetched succesfully
+2026-07-26 01:10:00,870 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:00,875 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:01,497 | ERROR | main | run_etl | Line:75 | Error Failed to fetch data from API:503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=27.0844&longitude=93.6053&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,rain,surface_pressure,weather_code,wind_speed_10m,wind_direction_10m&timezone=Asia/Kolkata
+2026-07-26 01:10:02,109 | ERROR | main | run_etl | Line:75 | Error Failed to fetch data from API:503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=27.3389&longitude=88.6065&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,rain,surface_pressure,weather_code,wind_speed_10m,wind_direction_10m&timezone=Asia/Kolkata
+2026-07-26 01:10:02,681 | ERROR | main | run_etl | Line:75 | Error Failed to fetch data from API:503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=26.7271&longitude=88.3953&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,rain,surface_pressure,weather_code,wind_speed_10m,wind_direction_10m&timezone=Asia/Kolkata
+2026-07-26 01:10:03,959 | INFO | main | run_etl | Line:60 | DurgapurAPI data fetched succesfully
+2026-07-26 01:10:03,959 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:03,962 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:04,672 | INFO | main | run_etl | Line:60 | AsansolAPI data fetched succesfully
+2026-07-26 01:10:04,673 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:04,675 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:05,277 | INFO | main | run_etl | Line:60 | VaranasiAPI data fetched succesfully
+2026-07-26 01:10:05,277 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:05,281 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:05,925 | INFO | main | run_etl | Line:60 | PrayagrajAPI data fetched succesfully
+2026-07-26 01:10:05,926 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:05,931 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:06,603 | INFO | main | run_etl | Line:60 | AgraAPI data fetched succesfully
+2026-07-26 01:10:06,604 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:06,607 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:07,228 | INFO | main | run_etl | Line:60 | MeerutAPI data fetched succesfully
+2026-07-26 01:10:07,229 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:07,231 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:07,918 | INFO | main | run_etl | Line:60 | NoidaAPI data fetched succesfully
+2026-07-26 01:10:07,918 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:07,920 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:08,497 | INFO | main | run_etl | Line:60 | GurugramAPI data fetched succesfully
+2026-07-26 01:10:08,497 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:08,500 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:09,165 | INFO | main | run_etl | Line:60 | FaridabadAPI data fetched succesfully
+2026-07-26 01:10:09,165 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:09,168 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:09,850 | INFO | main | run_etl | Line:60 | PanajiAPI data fetched succesfully
+2026-07-26 01:10:09,851 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:09,854 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:10,505 | INFO | main | run_etl | Line:60 | BelagaviAPI data fetched succesfully
+2026-07-26 01:10:10,505 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:10,508 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:11,130 | INFO | main | run_etl | Line:60 | TiruchirappalliAPI data fetched succesfully
+2026-07-26 01:10:11,130 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:11,133 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:11,821 | INFO | main | run_etl | Line:60 | SalemAPI data fetched succesfully
+2026-07-26 01:10:11,821 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:11,824 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:12,410 | INFO | main | run_etl | Line:60 | WarangalAPI data fetched succesfully
+2026-07-26 01:10:12,411 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:12,418 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:13,081 | INFO | main | run_etl | Line:60 | NelloreAPI data fetched succesfully
+2026-07-26 01:10:13,081 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:13,083 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:13,718 | INFO | main | run_etl | Line:60 | GunturAPI data fetched succesfully
+2026-07-26 01:10:13,726 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:10:13,729 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:10:13,735 | INFO | main | <module> | Line:92 | Scheduler started. Running every 3 minutes.
+2026-07-26 01:12:27,844 | INFO | db_connect | get_db_connection | Line:66 | Successfully connected to PostgreSQL!
+2026-07-26 01:12:27,846 | INFO | main | run_etl | Line:38 | Connection Established Succesfully
+2026-07-26 01:12:28,447 | INFO | main | run_etl | Line:60 | DelhiAPI data fetched succesfully
+2026-07-26 01:12:28,448 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:28,451 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:29,084 | INFO | main | run_etl | Line:60 | MumbaiAPI data fetched succesfully
+2026-07-26 01:12:29,084 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:29,087 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:29,725 | INFO | main | run_etl | Line:60 | BengaluruAPI data fetched succesfully
+2026-07-26 01:12:29,726 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:29,729 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:30,306 | INFO | main | run_etl | Line:60 | HyderabadAPI data fetched succesfully
+2026-07-26 01:12:30,306 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:30,309 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:30,899 | INFO | main | run_etl | Line:60 | ChennaiAPI data fetched succesfully
+2026-07-26 01:12:30,899 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:30,902 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:31,447 | INFO | main | run_etl | Line:60 | KolkataAPI data fetched succesfully
+2026-07-26 01:12:31,447 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:31,451 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:32,099 | INFO | main | run_etl | Line:60 | PuneAPI data fetched succesfully
+2026-07-26 01:12:32,100 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:32,103 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:32,741 | INFO | main | run_etl | Line:60 | AhmedabadAPI data fetched succesfully
+2026-07-26 01:12:32,741 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:32,744 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:33,344 | INFO | main | run_etl | Line:60 | JaipurAPI data fetched succesfully
+2026-07-26 01:12:33,345 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:33,349 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:33,978 | INFO | main | run_etl | Line:60 | SuratAPI data fetched succesfully
+2026-07-26 01:12:33,979 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:33,984 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:34,858 | INFO | main | run_etl | Line:60 | LucknowAPI data fetched succesfully
+2026-07-26 01:12:34,858 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:34,860 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:35,463 | INFO | main | run_etl | Line:60 | KanpurAPI data fetched succesfully
+2026-07-26 01:12:35,463 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:35,467 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:36,117 | INFO | main | run_etl | Line:60 | NagpurAPI data fetched succesfully
+2026-07-26 01:12:36,122 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:36,131 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:36,804 | INFO | main | run_etl | Line:60 | IndoreAPI data fetched succesfully
+2026-07-26 01:12:36,805 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:36,808 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:37,426 | INFO | main | run_etl | Line:60 | BhopalAPI data fetched succesfully
+2026-07-26 01:12:37,426 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:37,429 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:38,040 | INFO | main | run_etl | Line:60 | PatnaAPI data fetched succesfully
+2026-07-26 01:12:38,040 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:38,043 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:38,680 | INFO | main | run_etl | Line:60 | VisakhapatnamAPI data fetched succesfully
+2026-07-26 01:12:38,681 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:38,683 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:39,309 | INFO | main | run_etl | Line:60 | VijayawadaAPI data fetched succesfully
+2026-07-26 01:12:39,309 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:39,312 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:40,033 | INFO | main | run_etl | Line:60 | CoimbatoreAPI data fetched succesfully
+2026-07-26 01:12:40,034 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:40,038 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:40,725 | INFO | main | run_etl | Line:60 | MaduraiAPI data fetched succesfully
+2026-07-26 01:12:40,726 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:40,728 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:41,400 | INFO | main | run_etl | Line:60 | KochiAPI data fetched succesfully
+2026-07-26 01:12:41,400 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:41,402 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:42,002 | INFO | main | run_etl | Line:60 | ThiruvananthapuramAPI data fetched succesfully
+2026-07-26 01:12:42,003 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:42,005 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:42,638 | INFO | main | run_etl | Line:60 | MysuruAPI data fetched succesfully
+2026-07-26 01:12:42,638 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:42,642 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:43,262 | INFO | main | run_etl | Line:60 | MangaluruAPI data fetched succesfully
+2026-07-26 01:12:43,263 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:43,267 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:43,871 | INFO | main | run_etl | Line:60 | HubballiAPI data fetched succesfully
+2026-07-26 01:12:43,871 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:43,874 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:44,463 | INFO | main | run_etl | Line:60 | NashikAPI data fetched succesfully
+2026-07-26 01:12:44,464 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:44,467 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:45,101 | INFO | main | run_etl | Line:60 | AurangabadAPI data fetched succesfully
+2026-07-26 01:12:45,102 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:45,104 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:45,771 | INFO | main | run_etl | Line:60 | VadodaraAPI data fetched succesfully
+2026-07-26 01:12:45,771 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:45,774 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:46,362 | INFO | main | run_etl | Line:60 | RajkotAPI data fetched succesfully
+2026-07-26 01:12:46,363 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:46,366 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:46,994 | INFO | main | run_etl | Line:60 | JodhpurAPI data fetched succesfully
+2026-07-26 01:12:46,995 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:46,998 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:47,598 | INFO | main | run_etl | Line:60 | UdaipurAPI data fetched succesfully
+2026-07-26 01:12:47,598 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:47,601 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:48,242 | INFO | main | run_etl | Line:60 | KotaAPI data fetched succesfully
+2026-07-26 01:12:48,243 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:48,246 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:48,890 | INFO | main | run_etl | Line:60 | ChandigarhAPI data fetched succesfully
+2026-07-26 01:12:48,890 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:48,895 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:49,562 | INFO | main | run_etl | Line:60 | LudhianaAPI data fetched succesfully
+2026-07-26 01:12:49,563 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:49,567 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:50,215 | INFO | main | run_etl | Line:60 | AmritsarAPI data fetched succesfully
+2026-07-26 01:12:50,215 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:50,218 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:50,811 | INFO | main | run_etl | Line:60 | JalandharAPI data fetched succesfully
+2026-07-26 01:12:50,811 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:50,814 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:51,437 | INFO | main | run_etl | Line:60 | DehradunAPI data fetched succesfully
+2026-07-26 01:12:51,438 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:51,440 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:52,094 | INFO | main | run_etl | Line:60 | HaridwarAPI data fetched succesfully
+2026-07-26 01:12:52,095 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:52,098 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:52,707 | INFO | main | run_etl | Line:60 | ShimlaAPI data fetched succesfully
+2026-07-26 01:12:52,707 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:52,710 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:53,299 | INFO | main | run_etl | Line:60 | SrinagarAPI data fetched succesfully
+2026-07-26 01:12:53,299 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:53,302 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:53,953 | INFO | main | run_etl | Line:60 | JammuAPI data fetched succesfully
+2026-07-26 01:12:53,953 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:53,956 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:54,548 | INFO | main | run_etl | Line:60 | LehAPI data fetched succesfully
+2026-07-26 01:12:54,548 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:54,551 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:55,157 | INFO | main | run_etl | Line:60 | RanchiAPI data fetched succesfully
+2026-07-26 01:12:55,158 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:55,164 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:55,778 | INFO | main | run_etl | Line:60 | JamshedpurAPI data fetched succesfully
+2026-07-26 01:12:55,778 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:55,781 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:56,390 | INFO | main | run_etl | Line:60 | BhubaneswarAPI data fetched succesfully
+2026-07-26 01:12:56,391 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:56,393 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:56,955 | INFO | main | run_etl | Line:60 | CuttackAPI data fetched succesfully
+2026-07-26 01:12:56,956 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:56,962 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:57,570 | INFO | main | run_etl | Line:60 | RaipurAPI data fetched succesfully
+2026-07-26 01:12:57,570 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:57,573 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:58,220 | INFO | main | run_etl | Line:60 | BilaspurAPI data fetched succesfully
+2026-07-26 01:12:58,220 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:58,223 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:58,853 | INFO | main | run_etl | Line:60 | GuwahatiAPI data fetched succesfully
+2026-07-26 01:12:58,853 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:58,856 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:12:59,530 | INFO | main | run_etl | Line:60 | ShillongAPI data fetched succesfully
+2026-07-26 01:12:59,531 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:12:59,533 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:00,180 | INFO | main | run_etl | Line:60 | AgartalaAPI data fetched succesfully
+2026-07-26 01:13:00,181 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:00,183 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:00,760 | INFO | main | run_etl | Line:60 | AizawlAPI data fetched succesfully
+2026-07-26 01:13:00,761 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:00,763 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:01,379 | INFO | main | run_etl | Line:60 | ImphalAPI data fetched succesfully
+2026-07-26 01:13:01,379 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:01,383 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:01,987 | INFO | main | run_etl | Line:60 | KohimaAPI data fetched succesfully
+2026-07-26 01:13:01,988 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:01,990 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:02,644 | INFO | main | run_etl | Line:60 | ItanagarAPI data fetched succesfully
+2026-07-26 01:13:02,644 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:02,647 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:03,242 | INFO | main | run_etl | Line:60 | GangtokAPI data fetched succesfully
+2026-07-26 01:13:03,242 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:03,246 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:03,816 | INFO | main | run_etl | Line:60 | SiliguriAPI data fetched succesfully
+2026-07-26 01:13:03,823 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:03,827 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:04,432 | INFO | main | run_etl | Line:60 | DurgapurAPI data fetched succesfully
+2026-07-26 01:13:04,433 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:04,435 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:05,098 | INFO | main | run_etl | Line:60 | AsansolAPI data fetched succesfully
+2026-07-26 01:13:05,098 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:05,100 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:05,727 | INFO | main | run_etl | Line:60 | VaranasiAPI data fetched succesfully
+2026-07-26 01:13:05,727 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:05,730 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:06,367 | INFO | main | run_etl | Line:60 | PrayagrajAPI data fetched succesfully
+2026-07-26 01:13:06,368 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:06,371 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:06,951 | INFO | main | run_etl | Line:60 | AgraAPI data fetched succesfully
+2026-07-26 01:13:06,951 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:06,954 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:07,567 | INFO | main | run_etl | Line:60 | MeerutAPI data fetched succesfully
+2026-07-26 01:13:07,567 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:07,570 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:08,154 | INFO | main | run_etl | Line:60 | NoidaAPI data fetched succesfully
+2026-07-26 01:13:08,154 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:08,159 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:08,766 | INFO | main | run_etl | Line:60 | GurugramAPI data fetched succesfully
+2026-07-26 01:13:08,767 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:08,769 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:09,398 | INFO | main | run_etl | Line:60 | FaridabadAPI data fetched succesfully
+2026-07-26 01:13:09,398 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:09,400 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:10,016 | INFO | main | run_etl | Line:60 | PanajiAPI data fetched succesfully
+2026-07-26 01:13:10,016 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:10,020 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:10,635 | INFO | main | run_etl | Line:60 | BelagaviAPI data fetched succesfully
+2026-07-26 01:13:10,635 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:10,637 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:11,187 | INFO | main | run_etl | Line:60 | TiruchirappalliAPI data fetched succesfully
+2026-07-26 01:13:11,187 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:11,191 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:11,797 | INFO | main | run_etl | Line:60 | SalemAPI data fetched succesfully
+2026-07-26 01:13:11,798 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:11,800 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:12,380 | INFO | main | run_etl | Line:60 | WarangalAPI data fetched succesfully
+2026-07-26 01:13:12,380 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:12,383 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:13,072 | INFO | main | run_etl | Line:60 | NelloreAPI data fetched succesfully
+2026-07-26 01:13:13,073 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:13,076 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully
+2026-07-26 01:13:13,788 | INFO | main | run_etl | Line:60 | GunturAPI data fetched succesfully
+2026-07-26 01:13:13,788 | INFO | transform | transform_record | Line:22 | Record Fileds Extracted Succefulyy
+2026-07-26 01:13:13,792 | INFO | db_connect | insert_into_db | Line:99 | Record inserted successfully

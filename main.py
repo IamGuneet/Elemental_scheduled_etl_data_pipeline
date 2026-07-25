@@ -20,7 +20,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(module)s | %(funcName)s | Line:%(lineno)d | %(message)s",
     handlers=[
-        logging.FileHandler("./logs/etl.log"),
+        logging.FileHandler(r"/logs/etl.log"),
         logging.StreamHandler()
     ]
 )
